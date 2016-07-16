@@ -4,31 +4,31 @@ body {
      background-color: white;
 }
 
-h1{
+h1 {
 	color: #eb99ff;
 	border-style: solid;
 	padding: 15px;
 }
 
-# header{
+# header {
 	font-family: Arial;
 	text-align: center;
 }
 
-p{
+p {
 	font-size: 20px;
 	font-family: Arial;
 	color: #b3ffb3;
 	background-color: #4d79ff;
 )
 
-h4{
+h4 {
 	color: #ffff80;
 	border-style: solid;
 	padding: 15px;
 }
 
-h5{
+h5 {
 	color: #ff3385;
 	border-style: solid;
 	padding: 15px;
